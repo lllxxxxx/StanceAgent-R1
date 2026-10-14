@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.claude/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+output/
+output_*/
+logs/
+verl/
+*.pt
+*.bin
+*.log
+*.bak*
+.DS_Store
